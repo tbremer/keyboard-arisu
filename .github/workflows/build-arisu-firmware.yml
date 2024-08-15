@@ -12,7 +12,7 @@ jobs:
       - name: QMK Keyboard firmware build
         uses: justgook/qmk-build@v1
         with:
-          keyboard-path: "keyboards/arisu/keymaps/tbremer"
+          keymap-path: "keyboards/arisu/keymaps/tbremer"
           keyboard: "arisu"
           keymap: "tbremer"
 
