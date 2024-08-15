@@ -1,12 +1,12 @@
 # ignore everything
 *
-*/*
 
 # except this file
 !.gitignore
 
 # unignore my specific keyboard
 !README.md
+!keyboards
 !keyboards/*/
 !keyboards/arisu
 !keyboards/arisu/*/
