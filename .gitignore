@@ -6,6 +6,7 @@
 !.gitignore
 
 # unignore my specific keyboard
+!README.md
 !keyboards
 !keyboards/*/
 !keyboards/arisu
