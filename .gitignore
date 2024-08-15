@@ -1,0 +1,20 @@
+# ignore everything
+*
+*/*
+
+# except this file
+!.gitignore
+
+# unignore my specific keyboard
+!keyboards
+!keyboards/*/
+!keyboards/arisu
+!keyboards/arisu/*/
+!keyboards/arisu/keymaps/
+!keyboards/arisu/keymaps/*/
+!keyboards/arisu/keymaps/tbremer/
+!keyboards/arisu/keymaps/tbremer/*
+# !keyboards/arisu
+# !keyboards/arisu/*/
+# !keyboards/arisu/keymaps
+# !keyboards/arisu/keymaps/tbremer/
