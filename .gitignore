@@ -3,6 +3,10 @@
 
 # except this file
 !.gitignore
+!.github
+!.github/*
+!.github/workflows/*
+!.github/workflows/build-arisu-firmware.yml
 
 # unignore my specific keyboard
 !README.md

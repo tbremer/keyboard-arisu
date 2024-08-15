@@ -1,0 +1,24 @@
+name: Build Arisu Firmware
+on:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+
+      - name: QMK Keyboard firmware build
+        uses: justgook/qmk-build@v1
+        with:
+          keyboard-path: "keyboards/arisu/keymaps/tbremer"
+          keyboard: "arisu"
+          keymap: "tbremer"
+
+      - name: Upload a Firmware
+        uses: actions/upload-artifact@v3.1.2
+        with:
+          name: firmware
+          path: build
+
