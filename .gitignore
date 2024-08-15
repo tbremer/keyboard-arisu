@@ -11,14 +11,9 @@
 # unignore my specific keyboard
 !README.md
 !keyboards
-# !keyboards/*/
 !keyboards/arisu
 !keyboards/arisu/*/
 !keyboards/arisu/keymaps/
 !keyboards/arisu/keymaps/*/
 !keyboards/arisu/keymaps/tbremer/
 !keyboards/arisu/keymaps/tbremer/*
-# !keyboards/arisu
-# !keyboards/arisu/*/
-# !keyboards/arisu/keymaps
-# !keyboards/arisu/keymaps/tbremer/
