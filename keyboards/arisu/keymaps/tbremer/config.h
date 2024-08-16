@@ -1,1 +1,1 @@
-#define TAPPING_TERM 125
+#define TAPPING_TERM 110
