@@ -6,4 +6,4 @@
 
 ## layout
 
-![arisu-tbrermer-layout](https://github.com/user-attachments/assets/3af36615-91ef-48e8-98da-c6bdea43c8d7)
+![arisu-tbrermer-layout](https://github.com/user-attachments/assets/ebe5416c-9d5f-478d-93c9-f473185adc3e)
